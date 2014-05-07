@@ -1,0 +1,1 @@
+Takes one command line argument that determines how many strings will be entered.
